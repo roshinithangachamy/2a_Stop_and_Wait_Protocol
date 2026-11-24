@@ -52,9 +52,11 @@ s.close()
 ```
 ## OUTPUT:
 ### SERVER:
-![EX_2A_STOP AND WAIT PROTOCAL](SERVER.png)
+<img width="1437" height="868" alt="SERVER" src="https://github.com/user-attachments/assets/8334de69-8cfb-4c5c-8cef-47902f2a3743" />
+
 ### CLIENT
-![EX_2A_CLIENT](CLIENT.png)
+<img width="735" height="927" alt="CLIENT" src="https://github.com/user-attachments/assets/82155c22-8616-45df-b0e0-a08161405ef2" />
+
 
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
